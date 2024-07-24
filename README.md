@@ -1,4 +1,4 @@
-# Advanced-NLP-Classification-Integrating-BERT-with-Ray-FastAPI-and-MLFlow
+# Advanced-NLP-Classification-Integrating-BERT
 ## Lessons
 
 Learn how to combine machine learning with software engineering to design, develop, deploy and iterate on production-grade ML applications.
@@ -41,7 +41,7 @@ Create a repository by following these instructions: [Create a new repository](h
 Now we're ready to clone the repository that has all of our code:
 
 ```bash
-git clone https://github.com/buntyk187/Advanced-NLP-Classification-Integrating-BERT-with-ray-FastAPI-and-MLFLOW.git .
+git clone https://github.com/buntyk187/Advanced-NLP-Classification-Integrating-BERT.git .
 ```
 
 
